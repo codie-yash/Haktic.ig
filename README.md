@@ -1,15 +1,13 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/th3unkn0n/OSI.IG/master/.lib/20191103_233944.jpg" width="300" height="120">
-</p>
+
 <p align="center">
 </p>
-<p align="center"><img src="https://img.shields.io/badge/Version-2.0-brightgreen"></p>
+<p align="center"><img src="https://img.shields.io/badge/Version-1.0-brightgreen"></p>
 <p align="center">
   <a href="https://github.com/codie-yash">
     <img src="https://img.shields.io/github/followers/codie-yash?label=Follow&style=social">
   </a>
   <a href="https://github.com/codie-yash/osi.ig/stargazers">
-    <img src="https://img.shields.io/github/stars/codie-yash/osi.ig?style=social">
+    <img src="https://img.shields.io/github/stars/codie-yash/Haktic.ig?style=social">
   </a>
 </p>
 <p align="center">
@@ -38,7 +36,7 @@ from just looking at their profile
 
 $ pkg install -y git
 
-$ git clone https://github.com/codie-yash/osi.ig.git && cd Haktic
+$ git clone https://github.com/codie-yash/Haktic.ig.git && cd Haktic.ig
 
 $ python3 -m pip install -r requirements.txt
 
@@ -57,14 +55,3 @@ $ git pull
 
 ---
 
-<p align="center">
-  Follow Me On
-</p>
-<p align="center">
-  <a href="https://youtube.com/channel/">
-    <img src="https://github.com/th3unkn0n/extra/blob/master/.img/yt.png" width="40" height="40">
-  </a>
-  <a href="https://twitter.com/th3unkn0n">
-    <img src="https://github.com/Genixcyber/extra/blob/master/.img/tw.png" width="40" height="40">
-    </a>
-</p>
