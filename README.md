@@ -5,11 +5,11 @@
 </p>
 <p align="center"><img src="https://img.shields.io/badge/Version-2.0-brightgreen"></p>
 <p align="center">
-  <a href="https://github.com/th3unkn0n">
-    <img src="https://img.shields.io/github/followers/th3unkn0n?label=Follow&style=social">
+  <a href="https://github.com/codie-yash">
+    <img src="https://img.shields.io/github/followers/codie-yash?label=Follow&style=social">
   </a>
-  <a href="https://github.com/th3unkn0n/osi.ig/stargazers">
-    <img src="https://img.shields.io/github/stars/th3unkn0n/osi.ig?style=social">
+  <a href="https://github.com/codie-yash/osi.ig/stargazers">
+    <img src="https://img.shields.io/github/stars/codie-yash/osi.ig?style=social">
   </a>
 </p>
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-* The Instagram OSINT Tool gets a range of information from an Instagram account that you normally wouldn't be able to get
+* The Hacktic OSINT Tool gets a range of information from an Instagram account that you normally wouldn't be able to get
 from just looking at their profile
 
 * The information includes:
@@ -38,7 +38,7 @@ from just looking at their profile
 
 $ pkg install -y git
 
-$ git clone https://github.com/th3unkn0n/osi.ig.git && cd osi.ig
+$ git clone https://github.com/codie-yash/osi.ig.git && cd Haktic
 
 $ python3 -m pip install -r requirements.txt
 
@@ -61,10 +61,10 @@ $ git pull
   Follow Me On
 </p>
 <p align="center">
-  <a href="https://youtube.com/channel/UCnknCgg_3pVXS27ThLpw3xQ">
+  <a href="https://youtube.com/channel/">
     <img src="https://github.com/th3unkn0n/extra/blob/master/.img/yt.png" width="40" height="40">
   </a>
   <a href="https://twitter.com/th3unkn0n">
-    <img src="https://github.com/th3unkn0n/extra/blob/master/.img/tw.png" width="40" height="40">
+    <img src="https://github.com/Genixcyber/extra/blob/master/.img/tw.png" width="40" height="40">
     </a>
 </p>
